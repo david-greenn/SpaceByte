@@ -5,7 +5,7 @@ Space Byte is a Unity 2D shooter game that I built from scratch during my readin
 Dodge enemy projectiles while accelarating through space at the speed of light and collect powerups along the way!
 
 # Demo
-![](https://media.giphy.com/media/VdVSLJmX80ExHbCvi3/giphy.gif)
+![](https://media.giphy.com/media/f7eHENpWhbD1oQOd3O/giphy.gif)
 # Reflections and Limitations
 
 # Development
