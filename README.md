@@ -5,7 +5,7 @@
 ![made with heart by mohmorsi](https://img.shields.io/badge/made%20with%20%E2%9D%A4%EF%B8%8F%20by-mohmorsi-red?style=flat-square)
 </div>
 
-# Space Byte
+# SpaceByte
 <div align="center">
   
 [![Space-Byte.png](https://i.postimg.cc/wv69PbJq/Space-Byte.png)](https://postimg.cc/qt5f6wjS)
