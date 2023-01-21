@@ -25,7 +25,7 @@
 
 
 ## Introduction
-Space Byte is a Unity 2D shooter game that I built from scratch during my reading week (Oct. 11-18, 2019) at <a href="https://www.yorku.ca/">York Univeristy</a>. 
+**Space Byte** is a Unity 2D shooter game that I built from scratch during my reading week (Oct. 11-18, 2019) at <a href="https://www.yorku.ca/">York Univeristy</a>. 
 
 
 ## Objective
