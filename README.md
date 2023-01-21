@@ -29,7 +29,7 @@ Space Byte is a Unity 2D shooter game that I built from scratch during my readin
 
 
 ## Objective
-Dodge enemy projectiles while hurtling through space at the speed of light and collect powerups along the way!
+**Space Byte** is a high-intensity Unity game that puts players in control of a spaceship hurtling through space at the speed of light, while dodging enemy projectiles and collecting power-ups along the way. This fast-paced, action-packed game offers a thrilling and immersive gaming experience, with stunning graphics, smooth animations, and an adrenaline-pumping soundtrack that immerses players in the heat of the battle. Players must react quickly and strategically to avoid obstacles and collect power-ups that will help them survive in this intense and unforgiving environment.
 
 ## Demo
 <div align="center">
