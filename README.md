@@ -46,12 +46,17 @@ So if you're ready for an adrenaline-fueled adventure that will keep you on the 
 </div>
 
 ## Game Objects
-### Control
-Use the "left" and "right" arrow keys to move the spaceship left and right. Use the "up" and "down" arrow keys to move the spaceship up and down.
-### Screen Layout
-The dimensions of the screen are variable to the relative size of the device(iOS and Android). No fixed parameters: vertical and horizontal dimensions.
-### Score Board
-Increases score when spaceship picks up green powerups. Drops down to zero when the spaceship collides with a an enemy projectile.
+###Control:
+
+Master the art of space navigation with the intuitive control system of **SpaceByte**. Use the arrow keys to swiftly maneuver your spaceship left, right, up, and down through the treacherous space environment. With every move you make, you'll feel the thrill of adrenaline as you dodge enemy projectiles and collect power-ups to stay alive.
+
+###Screen Layout:
+
+Experience the full potential of **SpaceByte** with a dynamic screen layout that adapts to your device's dimensions. Whether you're playing on an iOS or Android device, the game's vertical and horizontal dimensions will adjust seamlessly to provide you with an immersive and uninterrupted gameplay experience.
+
+###Score Board:
+
+Every move counts in **SpaceByte**, and each power-up you collect is worth its weight in gold. Watch your score soar as you skillfully navigate through the game's obstacles and collect green power-ups along the way. But beware - even the slightest collision with an enemy projectile will send your score plummeting to zero. With high stakes and intense gameplay, **SpaceByte** is a thrilling adventure you won't want to miss.
 
 ## License
 GPL-3.0 License
