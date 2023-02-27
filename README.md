@@ -25,7 +25,15 @@
 
 
 ## Introduction
-**Space Byte** is a Unity 2D shooter game that I built from scratch during my reading week (Oct. 11-18, 2019) at <a href="https://www.yorku.ca/">York Univeristy</a>. 
+Welcome to the exhilarating world of **SpaceByte**, an epic Unity game that will take you on a high-speed journey through space like never before. With its intense gameplay, stunning graphics, and heart-pumping soundtrack, this game promises to be an unforgettable experience that will leave you wanting more.
+
+In **SpaceByte**, you will assume the role of a skilled space pilot in command of a powerful spaceship that hurtles through space at the speed of light. Your mission is to navigate through treacherous obstacles while dodging enemy projectiles and collecting power-ups to stay alive.
+
+This game is designed to test your reflexes, your strategic thinking, and your ability to make split-second decisions under intense pressure. As you progress through the game's challenging levels, you will face increasingly difficult obstacles and enemies that will put your skills to the test.
+
+But fear not, for **SpaceByte** is not just about survival. You will also have the opportunity to collect power-ups that will give you a temporary advantage, such as shields, weapons, and extra lives. These power-ups will be crucial to your success as you battle your way through the game's intense and unforgiving environment.
+
+So if you're ready for an adrenaline-fueled adventure that will keep you on the edge of your seat, then look no further than **SpaceByte**. With its fast-paced gameplay, stunning visuals, and immersive soundtrack, this game is sure to provide you with hours of entertainment and excitement. Get ready to blast off into the unknown and conquer the galaxy!
 
 
 ## Objective
